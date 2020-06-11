@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1079968083995",
+    "firebase_url": "https://swagathotelmanagement.firebaseio.com",
+    "project_id": "swagathotelmanagement",
+    "storage_bucket": "swagathotelmanagement.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079968083995:android:2f77e257224392a5cd08be",
+        "android_client_info": {
+          "package_name": "com.example.swagathotel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079968083995-835nubijh8o2qq7j1i360epd6l9dnt7c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.swagathotel",
+            "certificate_hash": "787c57b30c9c12488878cebddfc7a2cc8df01deb"
+          }
+        },
+        {
+          "client_id": "1079968083995-ial4ndf2vel1svpcfl1frk1qj5j1c5qn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuiOrcNT7WnD3K-Un8cScv-W-r6URX4WI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079968083995-ial4ndf2vel1svpcfl1frk1qj5j1c5qn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
